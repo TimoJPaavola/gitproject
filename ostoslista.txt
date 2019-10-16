@@ -1,6 +1,7 @@
 maito
 olut
-rivi3
+rasva
+
 ostos
 kalja
 leipä
