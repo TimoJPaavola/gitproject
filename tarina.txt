@@ -1,2 +1,6 @@
 jotain tekstiä
+<<<<<<< HEAD
 satu ja tarinoita
+=======
+muokattua tarinaa
+>>>>>>> 2f12d211eb839234068aac1408422c524fbfc80d
